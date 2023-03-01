@@ -23,7 +23,7 @@ export default function Footer() {
       </section>
 
       <div className={`pt-5 ${styles.footer}`}>
-        <div className="container">
+        <div className="container ">
           <div className="row">
             <div className="col-md-6">
               <img src="./images/logo-light.png" className='w-25' alt="" />
@@ -42,7 +42,7 @@ export default function Footer() {
 
             <div className="col-md-2">
               <h5 className='py-3'>LAYOUTS</h5>
-              <ul className='list-unstyled'>
+              <ul className='list-unstyled text-white'>
                 <li className='text-muted mb-2'>Home Page</li>
                 <li className='text-muted mb-2'>Abou Page</li>
                 <li className='text-muted mb-2'>Service Page</li>
@@ -52,7 +52,7 @@ export default function Footer() {
               </ul>
             </div>
             <div className="col-md-2">
-              <h5 className='py-3'>ALL SECTIONS</h5>
+              <h5 className='py-3 text-white'>ALL SECTIONS</h5>
               <ul className='list-unstyled'>
                 <li className='text-muted mb-2'>Header </li>
                 <li className='text-muted mb-2'>Features </li>
@@ -65,7 +65,7 @@ export default function Footer() {
               </ul>
             </div>
             <div className="col-md-2">
-              <h5 className='py-3'>COMPANY</h5>
+              <h5 className='py-3 text-white'>COMPANY</h5>
               <ul className='list-unstyled'>
                 <li className='text-muted mb-2'>About </li>
                 <li className='text-muted mb-2'>Blog </li>
