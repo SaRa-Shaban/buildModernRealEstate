@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/buildModernRealEstate/static/css/main.ee936188.css",
+    "main.js": "/buildModernRealEstate/static/js/main.74b26742.js",
+    "static/media/about.jpg": "/buildModernRealEstate/static/media/about.44af39fb330d32b3db39.jpg",
+    "static/media/pricing.jpg": "/buildModernRealEstate/static/media/pricing.4552ccf3b91e93029513.4552ccf3b91e93029513.jpg",
+    "static/media/services.jpg": "/buildModernRealEstate/static/media/services.13be7fde05782bd5e2e8.13be7fde05782bd5e2e8.jpg",
+    "static/media/banner.png": "/buildModernRealEstate/static/media/banner.1a3c8a0a448e8e24f6a0.1a3c8a0a448e8e24f6a0.png",
+    "index.html": "/buildModernRealEstate/index.html",
+    "main.ee936188.css.map": "/buildModernRealEstate/static/css/main.ee936188.css.map",
+    "main.74b26742.js.map": "/buildModernRealEstate/static/js/main.74b26742.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee936188.css",
+    "static/js/main.74b26742.js"
+  ]
+}
