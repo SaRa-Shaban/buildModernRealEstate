@@ -1,0 +1,13 @@
+.service{
+    position: relative;
+    height: 40vh;
+    background-image: url(./../../../public/images/services.13be7fde05782bd5e2e8.jpg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.layer{
+    background-color: rgba(17,40,72,.629);
+}
+

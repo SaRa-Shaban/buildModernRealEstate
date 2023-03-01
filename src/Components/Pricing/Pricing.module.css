@@ -1,0 +1,13 @@
+.price{
+    position: relative;
+    height: 40vh;
+    background-image: url(./../../../public/images/pricing.4552ccf3b91e93029513.jpg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.layer{
+    background-color: rgba(17,40,72,.629);
+}
+

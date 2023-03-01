@@ -1,0 +1,15 @@
+.footer{
+    background-color: #1d2636;
+    color: white;
+}
+
+.btnCustom{
+    background-color: white;
+    color: #198754;
+}
+
+.btnCustom:hover{
+    background-color: white;
+    color: #198754;
+
+}

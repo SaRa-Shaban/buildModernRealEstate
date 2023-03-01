@@ -1,0 +1,12 @@
+.about{
+    position: relative;
+    height: 40vh;
+    background-image: url(./../../../public/images/about.56e92b20e762df2fa5de.jpg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.layer{
+    background-color: rgba(17,40,72,.629);
+}
