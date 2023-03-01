@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/buildModernRealEstate/static/css/main.2208f0a2.css",
-    "main.js": "/buildModernRealEstate/static/js/main.d47a9cfd.js",
+    "main.js": "/buildModernRealEstate/static/js/main.f8cefd4a.js",
     "static/media/fa-solid-900.ttf": "/buildModernRealEstate/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/about.jpg": "/buildModernRealEstate/static/media/about.44af39fb330d32b3db39.jpg",
     "static/media/pricing.jpg": "/buildModernRealEstate/static/media/pricing.4552ccf3b91e93029513.4552ccf3b91e93029513.jpg",
@@ -16,10 +16,10 @@
     "static/media/fa-v4compatibility.woff2": "/buildModernRealEstate/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/buildModernRealEstate/index.html",
     "main.2208f0a2.css.map": "/buildModernRealEstate/static/css/main.2208f0a2.css.map",
-    "main.d47a9cfd.js.map": "/buildModernRealEstate/static/js/main.d47a9cfd.js.map"
+    "main.f8cefd4a.js.map": "/buildModernRealEstate/static/js/main.f8cefd4a.js.map"
   },
   "entrypoints": [
     "static/css/main.2208f0a2.css",
-    "static/js/main.d47a9cfd.js"
+    "static/js/main.f8cefd4a.js"
   ]
 }
